@@ -1,0 +1,2 @@
+# Ethical-implications-of-personal-data-use-in-data-mining
+This project explores the ethical challenges surrounding the use of personal data for unintended purposes within data mining. It covers key ethical considerations, real-world misuse cases &amp; proposed solutions, integrating data mining techniques to mitigate misuse risks. The repository includes theoretical research findings in data ethics.
